@@ -1,5 +1,5 @@
-// const CONN = 'https://project-database-bunbun.herokuapp.com/'
-const CONN = "http://127.0.0.1:5000/";
+const CONN = 'https://studentdirectory.onrender.com/'
+// const CONN = "http://127.0.0.1:5000/";
 
 const axios_instance = axios.create({
   baseURL: CONN,

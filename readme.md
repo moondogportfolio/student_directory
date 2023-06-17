@@ -9,3 +9,5 @@
 - GUI is a collaborative effort between the Jinja2 templating system and Vue.
 - Was originally connected to a MongoDB database, but for the sake of demonstration, pertinent code has been commented out and replaced by in-memory data. Will still work if commented data is restored.
 - Server is handled by the Flask library, and is written in Python.
+- 
+[Link](https://studentdirectory.onrender.com/)
